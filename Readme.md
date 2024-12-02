@@ -27,6 +27,6 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=chiraggupta98&show_icons=true" alt="chiraggupta98" align="center" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiraggupta98&" alt="chiraggupta98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiraggupta98&" alt="" /></p>
 
 
