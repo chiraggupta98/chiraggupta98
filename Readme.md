@@ -19,9 +19,9 @@
 </p>
 
 <!-- Trophy -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chiraggupta98&theme=radical&no-frame=true&margin-w=10&row=1" />
-</p>
+</p> -->
 
 <!-- Animated GIF -->
 <p align="center">
