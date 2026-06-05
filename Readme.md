@@ -45,15 +45,17 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,nodejs,mongodb,tailwind" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,react,js,html,css,bootstrap,mongodb,mysql,postgres,docker,git,github" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ---
