@@ -7,12 +7,12 @@
 </p>
 
 <!-- <h1 align="center">
-Hi 👋 I'm Chirag Gupta
-</h1>
+Hi 👋 
+</h1> -->
 
 <h3 align="center">
 🚀 Full Stack Developer | ASP.NET Core | MERN Stack | SQL Server
-</h3> -->
+</h3> 
 
 <p align="center">
 
