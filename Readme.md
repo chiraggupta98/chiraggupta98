@@ -17,7 +17,7 @@ Hi 👋
 -->
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=.NET+Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Applications;500%2B+Coding+Problems+Solved;Learning+System+Design;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=.NET+Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Applications;500%2B+Coding+Problems+Solved;Learning+System+Design;Open+Source+Enthusiast" />
 
 </p>
 
