@@ -6,13 +6,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20&text=Chirag%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=.NET%20Developer%20|%20MERN%20Stack%20Developer&descAlignY=55"/>
 </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
 Hi 👋 I'm Chirag Gupta
 </h1>
 
 <h3 align="center">
 🚀 Full Stack Developer | ASP.NET Core | MERN Stack | SQL Server
-</h3>
+</h3> -->
 
 <p align="center">
 
