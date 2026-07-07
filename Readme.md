@@ -67,7 +67,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chiraggupta98&show_icons=true&theme=tokyonight&cache_seconds=1800" />
@@ -79,15 +79,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraggupta98&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 ---
 
-<h3 align="center">⚡ Activity Graph</h3>
+<!-- <h3 align="center">⚡ Activity Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiraggupta98&theme=react-dark&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
